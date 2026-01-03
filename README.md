@@ -1,4 +1,4 @@
-<img width="1536" height="1024" alt="github banner for readme" src="https://github.com/user-attachments/assets/ba3c11d7-209f-4975-a0eb-2bf01524a293" />
+<img width="1536" height="626" alt="github banner for readme" src="https://github.com/user-attachments/assets/84b59b57-41dd-470d-aef8-3aedde37e957" />
 
 
 ## About Me
