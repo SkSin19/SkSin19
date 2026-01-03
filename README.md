@@ -14,7 +14,9 @@
 ## Projects 📁
 
 - Kute – Make Dating Fun
-- Rant – Over thinking? Rant it out
+- Rant – Overthinking? Rant it out
+- KIIT E-Cell Official Website
+- E-Summit Official Website
 
 ## Experience 🏢
 
@@ -24,6 +26,4 @@
 
 - Email : <sakshamsinha9999@gmail.com>
 - LinkedIn : <https://www.linkedin.com/feed/>
-- CV : <https://saksham-sinha-resume.tiiny.site>
-
-[Saksham_Sinha_Resume.pdf](https://github.com/user-attachments/files/24416611/Saksham_Sinha_Resume.pdf)
+- CV : [Saksham_Sinha_Resume.pdf](https://github.com/user-attachments/files/24416611/Saksham_Sinha_Resume.pdf)
