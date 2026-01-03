@@ -1,20 +1,28 @@
-# Hi, I'm <Your Name> 👋
+# Hi, I'm <Saksham> 👋
 
 ## About Me
-- What you do
-- What you’re learning
-- What you’re building
+
+- I am currently a sophomore at KIIT University, Bhubaneswar persuing my BTech degree in Computer Science.
+- I am proficient in Mobile and Web Apps - Full Stack Development. I am currently very interested in Machine Learning and Artifical Intelligence.
+- Currently I am working on several projects such as Kute and Rant while growing my startup, FlaminCo
 
 ## Tech Stack
-- Languages
-- Frameworks
-- Tools
+
+- React Native, React.js, Next.js, Express.js, Node.js, MongoDb
+- Java Script, Python, C, C++, Java, CSS, HTML
 
 ## Featured Projects
-- Project name – one-line value statement
-- Project name – what problem it solves
 
-## Stats (optional, not mandatory)
+- Kute – Make Dating Fun
+- Rant – Over thinking? Rant it out
 
-## Contact
-- Email / LinkedIn / Portfolio
+## Experience
+
+- Technical Associate at KIIT E-Cell
+
+## Contact Me
+
+- Email : <sakshamsinha9999@gmail.com>
+- LinkedIn : <https://www.linkedin.com/feed/>
+- CV : <https://saksham-sinha-resume.tiiny.site>
+- Portfolio :
