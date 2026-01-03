@@ -1,15 +1,20 @@
-# Project Name
-One-line description
+# Hi, I'm <Your Name> 👋
 
-## Demo
-(screenshot / gif)
-
-## Features
-- Bullet points
+## About Me
+- What you do
+- What you’re learning
+- What you’re building
 
 ## Tech Stack
-- React, Next.js, etc.
+- Languages
+- Frameworks
+- Tools
 
-## Setup
-npm install
-npm run dev
+## Featured Projects
+- Project name – one-line value statement
+- Project name – what problem it solves
+
+## Stats (optional, not mandatory)
+
+## Contact
+- Email / LinkedIn / Portfolio
