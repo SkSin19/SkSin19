@@ -1,4 +1,5 @@
-# Hi, I'm Saksham 👋
+<img width="1536" height="1024" alt="github banner for readme" src="https://github.com/user-attachments/assets/ba3c11d7-209f-4975-a0eb-2bf01524a293" />
+
 
 ## About Me
 
