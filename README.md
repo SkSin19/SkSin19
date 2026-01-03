@@ -1,4 +1,4 @@
-# Hi, I'm <Saksham> 👋
+# Hi, I'm Saksham 👋
 
 ## About Me
 
