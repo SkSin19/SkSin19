@@ -10,6 +10,7 @@
 
 - React Native, React.js, Next.js, Express.js, Node.js, MongoDb
 - Java Script, Python, C, C++, Java, CSS, HTML
+- Tensor Flow, PyTorch, Lang Chain, Scikit Learn, MatPlotLib, Numpy, Pandas, Seaborn, Plotly
 
 ## Featured Projects
 
