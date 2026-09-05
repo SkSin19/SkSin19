@@ -22,9 +22,12 @@
 ## Experience 🏢
 
 - Technical Associate at KIIT E-Cell
+- Founder at Quarks Digital
+- Founder at FlaminCo Tech
 
 ## Contact Me 📱
 
 - Email : <sakshamsinha9999@gmail.com>
 - LinkedIn : <https://www.linkedin.com/feed/>
 - CV : [Saksham_Sinha_Resume.pdf](https://github.com/user-attachments/files/24416611/Saksham_Sinha_Resume.pdf)
+- Portfolio: <https://portfolio-saksham-sinha.vercel.app/>
